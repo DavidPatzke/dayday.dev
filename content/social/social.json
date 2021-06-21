@@ -29,7 +29,7 @@
                 "frontColor": "#1DA1F2",
                 "iconColor" : "white",
                 "backContent": "https://twitter.com/Oda_Yukimura"
-            
+
             },
             {
                 "title": "Letterboxd",
@@ -81,14 +81,14 @@
                 "icon": "SiGithub",
                 "frontColor": "black",
                 "iconColor" : "white",
-                "backContent": "https://github.com/LazerTiberius"
+                "backContent": "https://github.com/DavidPatzke"
             },
             {
                 "title": "Instagram",
                 "icon": "SiInstagram",
                 "frontColor": "radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);",
                 "iconColor" : "white",
-                "backContent": "https://twitter.com/Oda_Yukimura"
+                "backContent": "https://www.instagram.com/matsdavid/"
             },
             {
                 "title": "GGApp",
@@ -104,9 +104,9 @@
                 "frontColor": "#DB1515",
                 "iconColor" : "white",
                 "backContent": "Dayday#1337"
-                
+
             }
-           
+
         ]
     }
 }
